@@ -74,9 +74,29 @@ This lab provided hands-on experience with enterprise network configuration, tro
 
 ## Project Status
 
-Technical configuration and verification completed.
+**Status: Completed — November 2026**
 
-**Environment:** Cisco Packet Tracer — simulated network for educational and portfolio purposes.
+Successfully configured and tested the enterprise network security lab, including VLAN segmentation, inter-VLAN routing, DHCP, extended ACLs, SSHv2 management, and switch port security.
 
-<img width="517" height="667" alt="image" src="https://github.com/user-attachments/assets/5ce1c950-fd5e-402a-b814-0d400bc66e99" />
+Network topology, router and switch verification screenshots, and the Cisco Packet Tracer project file are available in this repository.
+
+**Environment:** Cisco Packet Tracer — independently developed simulated network for learning and portfolio purposes.
+
+## Skills Developed
+
+- Cisco network administration
+- VLAN segmentation and inter-VLAN routing
+- DHCP configuration
+- Access Control Lists (ACLs)
+- SSHv2 secure router management
+- Switch port security
+- Network troubleshooting
+- Technical documentation
+
+## Author
+
+**Vicky Mehta**
+
+Cybersecurity Diploma Student at SAIT | Aspiring AI Security Engineer
+
 
