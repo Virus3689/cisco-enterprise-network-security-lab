@@ -77,3 +77,6 @@ This lab provided hands-on experience with enterprise network configuration, tro
 Technical configuration and verification completed.
 
 **Environment:** Cisco Packet Tracer — simulated network for educational and portfolio purposes.
+
+<img width="517" height="667" alt="image" src="https://github.com/user-attachments/assets/5ce1c950-fd5e-402a-b814-0d400bc66e99" />
+
